@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Atanu Das.
 - 👀 I’m interested in Data & Biriyani!
 - 🌱 I’m currently learning PySpark & Stream analytics.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data engineering, data architecture etc.
 - 📫 Reach me at dasatanu10@gmail.com
 
 <!---
