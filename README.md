@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data & Biriyani!
 - 💞️ I’m looking to collaborate on Data Engineering, Data Solution Architecture.
 - 📫 Reach me at dasatanu10@gmail.com
-- :earth_asia: https://www.atanuconsulting.in/home
+- :earth_asia: https://www.atanuconsulting.in
 - Meet my AI assistant :point_right: https://atanudas-resume.streamlit.app
 
 <!---
